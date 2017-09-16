@@ -1,0 +1,8 @@
+{
+  "name": "matchademics-demo",
+  "main": "server.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
