@@ -1,4 +1,4 @@
-# matchademics-demo
+# Using Matchademics Whitelabel Components
 
 ### Simply use your partner key to acess our questionnaire.
 
